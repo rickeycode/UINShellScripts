@@ -9,7 +9,7 @@ And insert h2 title, if directory has name prefixed "NUM_".
 👇Command info.   
 `export.sh $1=image_directory $2=html_file_name`
 
-## Sample image directory tree
+## Image directory tree sample
 
 ### create h2 title from directory's name
 
